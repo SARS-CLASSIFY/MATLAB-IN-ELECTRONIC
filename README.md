@@ -6,4 +6,4 @@
   - EX05    interp2 线性插值变换
   - EX06    大作业GUI设计
   - EX07    信号处理相关
-  
+  - EX08    SIMULINK实验
